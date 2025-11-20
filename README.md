@@ -1,6 +1,6 @@
 # Remix starter kit with Appwrite
 
-Kickstart your Remix development with this ready-to-use starter project integrated with [Appwrite](https://www.appwrite.io)
+Kickstart your Remix development with this ready-to-use starter project integrated with [Appwrite](https://www.appwrite.io).
 
 ## 🚀Getting started
 
